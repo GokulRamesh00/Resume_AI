@@ -1,4 +1,4 @@
-# Resume RAG System
+# Chat With Your Resume
 
 A powerful Retrieval-Augmented Generation (RAG) system that allows you to interact with your resume through natural language queries. This system provides intelligent responses to questions about your resume, helps with interview preparation, and offers insights about your professional experience.
 
