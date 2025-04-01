@@ -1,0 +1,32 @@
+John Doe
+123 Main Street, Anytown, USA
+johndoe@email.com | (123) 456-7890
+
+SUMMARY
+Experienced software engineer with 5+ years of experience in full-stack development, specializing in Python, React, and cloud technologies. Proven track record of delivering scalable applications and solving complex problems.
+
+SKILLS
+- Languages: Python, JavaScript, TypeScript, SQL
+- Frameworks: React, Flask, Django, Express.js
+- Cloud: AWS, Azure, Google Cloud
+- Tools: Docker, Kubernetes, Git, CI/CD
+
+EXPERIENCE
+Senior Software Engineer | Tech Solutions Inc. | 2020 - Present
+- Led development of a microservices architecture that improved system performance by 40%
+- Implemented AI-powered recommendation system using natural language processing
+- Mentored junior developers and conducted code reviews
+
+Software Developer | Innovative Systems | 2018 - 2020
+- Developed RESTful APIs and web applications using Python Flask
+- Created responsive front-end designs with React
+- Optimized database queries resulting in 30% faster response times
+
+EDUCATION
+Master of Science in Computer Science | University of Technology | 2018
+Bachelor of Science in Software Engineering | State University | 2016
+
+PROJECTS
+- RAG Application: Developed a Retrieval-Augmented Generation system using LLMs
+- E-commerce Platform: Built a full-stack e-commerce solution with payment processing
+- Data Visualization Dashboard: Created interactive dashboards for business analytics 

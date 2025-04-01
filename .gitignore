@@ -1,0 +1,9 @@
+.env
+FlagEmbedding-1.2.10/
+testing.py
+t.py
+rag/
+DockerFile
+s.txt
+__pycache__
+
